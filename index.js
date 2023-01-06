@@ -9,6 +9,7 @@ const transporter = nodemailer.createTransport({
     pass: 'f1gfhgm23nbcfgfdgvx54352',
   },
 });
+// Created nodemailer
 const options = {
   from: 'nareshsit7@gmail.com',
   to: 'nareshbjava7@gmail.com',
